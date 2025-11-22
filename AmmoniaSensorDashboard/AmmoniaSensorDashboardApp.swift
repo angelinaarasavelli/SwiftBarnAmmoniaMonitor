@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-@main
 struct AmmoniaSensorDashboardApp: App {
     var body: some Scene {
         WindowGroup {
